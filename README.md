@@ -16,7 +16,7 @@ Open `index.html` in a web browser. No build tool or dependencies are required.
 
 ## Before final submission
 
-* Replace the code review placeholder in `index.html` with your actual accessible video link or embed.
+* Verify the embedded YouTube code review plays on the published website and that its visibility allows your instructor to view it.
 * Read the drafted professional self assessment carefully and revise any wording that does not describe your own experience accurately.
 * Check original and enhanced artifact downloads.
 * Confirm that the portfolio link opens in an incognito browser.
